@@ -3,3 +3,4 @@ and his life story
 I am learning git puss to github 
 I love to learn cy 
 I love to teach github
+Story2 are modifing for some text
